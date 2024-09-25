@@ -1,2 +1,2 @@
-# epics-security-test
-EPICS Security Test Environment
+# epics-security-ipa
+EPICS Security IPA Test Environment
